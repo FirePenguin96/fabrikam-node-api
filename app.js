@@ -1,4 +1,4 @@
-hello
+hello world
 
 var express = require('express');
 var path = require('path');
